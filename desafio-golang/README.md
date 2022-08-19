@@ -1,4 +1,4 @@
-# Desafio Golang Imersão
+# Golang Challenge
 
 ## Instruções
 
